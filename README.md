@@ -1,4 +1,3 @@
-# UBER-NCR-data-analysis
 # Uber NCR Ride Bookings — Data Analysis & Dashboard
 
 **Author:** THAK ARAVIND  
