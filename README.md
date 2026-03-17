@@ -1,9 +1,8 @@
 # Uber NCR Ride Bookings — Data Analysis & Dashboard
 
-**Author:** THAK ARAVIND  
-**GitHub:** [github.com/THAK-ARAVIND](https://github.com/THAK-ARAVIND)  
+**Author:** THAK ARAVIND   
 **Dataset:** NCR (National Capital Region) Uber Ride Bookings · Jan–Dec 2024  
-**Stack:** MySQL · Python · HTML / CSS / JavaScript · Chart.js
+**Stack:** MySQL · Python · power bi
 
 ---
 
@@ -19,7 +18,7 @@ SQL-powered data cleaning and EDA on 150,000 Uber NCR ride bookings with an inte
 |------|-------------|
 | `ncr_ride_bookings.csv` | Raw dataset · 150,000 rows · 21 columns |
 | `mysql_analysis.sql` | Full MySQL cleaning + EDA (15 queries) |
-| `uber_ncr_dashboard.html` | Interactive analytics dashboard |
+| `uber_ncr_dashboard.` | Interactive analytics dashboard |
 
 ---
 
@@ -88,8 +87,6 @@ SQL-powered data cleaning and EDA on 150,000 Uber NCR ride bookings with an inte
 # 1. Create database and import data
 mysql -u root -p < mysql_analysis.sql
 
-# 2. Open dashboard in browser
-open uber_ncr_dashboard.html
 ```
 
 ---
