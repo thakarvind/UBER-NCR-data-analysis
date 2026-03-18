@@ -9,12 +9,6 @@
 
 ## Dashboard Preview
 
-![Overview — KPIs and Monthly Trend](assets/preview_1_overview.png)
-
-![Vehicle Revenue, Payment Methods and Hourly Demand](assets/preview_2_charts.png)
-
-![Cancellation Reasons, Top Locations and Vehicle Completion](assets/preview_3_analysis.png)
-
 ---
 
 ## Tools Used
